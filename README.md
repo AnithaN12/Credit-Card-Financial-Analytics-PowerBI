@@ -44,6 +44,7 @@ Developed an interactive Power BI dashboard to analyze credit card customer beha
 # Dashboard
 
 <img width="1432" height="810" alt="Credit Card Transaction Report" src="https://github.com/user-attachments/assets/44570a54-ed81-46e1-9c41-471df7e5520d" />
+
 <img width="1436" height="793" alt="Credit Card Customer Report" src="https://github.com/user-attachments/assets/613f0c99-ec49-4cbb-b51c-b0b0263e775b" />
   
 # Project Outcome
